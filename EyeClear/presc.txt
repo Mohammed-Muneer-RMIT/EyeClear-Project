@@ -1,0 +1,90 @@
+Prescription ID: 1
+First Name: John
+Last Name: Smith
+Address: 123 Main St, Suburb, 12345, Country
+Sphere: 2.5
+Cylinder: -1.25
+Axis: 90.0
+Date of Examination: 22/10/2024
+Optometrist: Dr. Andrew
+------------------------------
+Prescription ID: 1
+First Name: John
+Last Name: Smith
+Address: 123 Main St, Suburb, 12345, Country
+Sphere: 2.5
+Cylinder: -1.25
+Axis: 90.0
+Date of Examination: 22/10/2024
+Optometrist: Dr. Andrew
+------------------------------
+Prescription ID: 1
+First Name: John
+Last Name: Smith
+Address: 123 Main St, Suburb, 12345, Country
+Sphere: 2.5
+Cylinder: -1.25
+Axis: 90.0
+Date of Examination: 22/10/2024
+Optometrist: Dr. Andrew
+------------------------------
+Prescription ID: 1
+First Name: John
+Last Name: Smith
+Address: 123 Main St, Suburb, 12345, Country
+Sphere: 2.5
+Cylinder: -1.25
+Axis: 90.0
+Date of Examination: 22/10/2024
+Optometrist: Dr. Andrew
+------------------------------
+Prescription ID: 1
+First Name: John
+Last Name: Smith
+Address: 123 Main St, Suburb, 12345, Country
+Sphere: 2.5
+Cylinder: -1.25
+Axis: 90.0
+Date of Examination: 22/10/2024
+Optometrist: Dr. Andrew
+------------------------------
+Prescription ID: 1
+First Name: John
+Last Name: Smith
+Address: 123 Main St, Suburb, 12345, Country
+Sphere: 2.5
+Cylinder: -1.25
+Axis: 90.0
+Date of Examination: 22/10/2024
+Optometrist: Dr. Andrew
+------------------------------
+Prescription ID: 1
+First Name: John
+Last Name: Smith
+Address: 123 Main St, Suburb, 12345, Country
+Sphere: 2.5
+Cylinder: -1.25
+Axis: 90.0
+Date of Examination: 22/10/2024
+Optometrist: Dr. Andrew
+------------------------------
+Prescription ID: 1
+First Name: John
+Last Name: Smith
+Address: 123 Main St, Suburb, 12345, Country
+Sphere: 2.5
+Cylinder: -1.25
+Axis: 90.0
+Date of Examination: 22/10/2024
+Optometrist: Dr. Andrew
+------------------------------
+Prescription ID: 1
+First Name: John
+Last Name: Smith
+Address: 123 Main St, Suburb, 12345, Country
+Sphere: 2.5
+Cylinder: -1.25
+Axis: 90.0
+Date of Examination: 22/10/2024
+Optometrist: Dr. Andrew
+------------------------------
